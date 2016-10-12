@@ -1,7 +1,7 @@
 # Missing Number
 
 The repo implements a function, whose parameters are two lists, and returns an element in either the first or second list 
-but no in both. The implementation is guided by these [tests](test/missingnumbertest.py).
+but not in both. The implementation is guided by these [tests](test/missingnumbertest.py).
 
 ## Why am I doing this?
 
